@@ -11,3 +11,7 @@ yarn run dev
 ```
 
 after that go to `http://localhost:3000`
+
+## Demo
+
+![demo](./docs/remix-editorjs-demo.gif)
